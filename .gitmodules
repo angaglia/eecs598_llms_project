@@ -1,0 +1,6 @@
+[submodule "AgentBench"]
+	path = AgentBench
+	url = https://github.com/THUDM/AgentBench.git
+[submodule "Rememberer"]
+	path = Rememberer
+	url = https://github.com/OpenDFM/Rememberer.git
